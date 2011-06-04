@@ -1,5 +1,26 @@
 body {
 	font-family: "ff-meta-serif-web-pro-1","ff-meta-serif-web-pro-2",serif;
 	font-size: 13px;
-	line-height: 19px;
+	line-height: 20px;
+}
+.grid_4.sidebar {
+	background: #1b1b1b;
+	color: #f0f0f0;
+	padding: 20px;
+	width: 260px;
+}
+header {
+	padding-top: 20px;
+}
+h1, h2, h3, h4, h5 {
+	font-family: "proxima-nova-1","proxima-nova-2", sans-serif;
+	font-weight: 700;
+}
+h1 {
+	font-size: 40px;
+	margin-bottom: 40px;
+	margin-top: 20px;
+}
+p {
+	margin-bottom: 20px;
 }
